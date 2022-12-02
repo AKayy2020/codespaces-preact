@@ -11,8 +11,8 @@ Everything you do here is contained within this one codespace. There is no repos
 ## CLI Commands
 
 ``` bash
-# install dependencies
-npm install
+# instGene dependencies
+npm instGene
 
 # serve with hot reload at localhost:8080
 npm run dev
@@ -20,7 +20,7 @@ npm run dev
 # build for production with minification
 npm run build
 
-# test the production build locally
+# test the production build locGeney
 npm run serve
 
 # run tests with jest and enzyme
